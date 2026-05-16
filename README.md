@@ -1,2 +1,2 @@
 # CRDS-CNN-Models
-A CNN-based machine learning framework for Cavity Ring-Down Spectroscopy (CRDS), designed to analyze biomarkers and quantify their spectral intensities from spectroscopic signals.
+This repository houses the materials and machine learning models developed for research focused on quantifying biomarker intensities from Cavity Ring-Down Spectroscopy (CRDS) images. The research is conducted in the Department of Physics and Astronomy at Texas A&M University in College Station.
